@@ -1,0 +1,83 @@
+{
+  "team": {
+    "id": 42,
+    "name": "Till's SaaS Team"
+  },
+  "attendance_data": {
+    "current_day": {
+      "date": "2025-04-23",
+      "employees": [
+        {
+          "id": 103,
+          "name": "Till Carlos",
+          "timezone": "Asia/Ho_Chi_Minh",
+          "checked_in_at": "2025-04-23T07:50:26+07:00",
+          "checked_out_at": "2025-04-23T17:06:04+07:00",
+          "checkout_message": "Completed frontend updates"
+        },
+        {
+          "id": 217,
+          "name": "Tedros Haile",
+          "timezone": "Africa/Addis_Ababa",
+          "checked_in_at": "2025-04-23T10:58:13+03:00",
+          "checked_out_at": "2025-04-23T16:57:19+03:00",
+          "checkout_message": "Deployed backend changes"
+        },
+        {
+          "id": 332,
+          "name": "Kalkidan Bekele",
+          "timezone": "Africa/Addis_Ababa",
+          "checked_in_at": "2025-04-23T07:59:46+03:00",
+          "checked_out_at": "2025-04-23T19:36:56+03:00",
+          "checkout_message": "Implemented new security features"
+        },
+        {
+          "id": 458,
+          "name": "Ezana Mekonnen",
+          "timezone": "Africa/Addis_Ababa",
+          "checked_in_at": "2025-04-23T08:45:07+03:00",
+          "checked_out_at": null,
+          "checkout_message": null
+        }
+      ]
+    },
+    "yesterday": {
+      "date": "2025-04-22",
+      "employees": [
+        {
+          "id": 103,
+          "name": "Till Carlos",
+          "timezone": "Asia/Ho_Chi_Minh",
+          "checked_in_at": "2025-04-22T07:55:33+07:00",
+          "checked_out_at": "2025-04-22T19:04:39+07:00",
+          "checkout_message": "Completed frontend updates"
+        },
+        {
+          "id": 217,
+          "name": "Tedros Haile",
+          "timezone": "Africa/Addis_Ababa",
+          "checked_in_at": "2025-04-22T08:41:23+03:00",
+          "checked_out_at": "2025-04-22T17:03:57+03:00",
+          "checkout_message": "Resolved critical bugs"
+        },
+        {
+          "id": 332,
+          "name": "Kalkidan Bekele",
+          "timezone": "Africa/Addis_Ababa",
+          "checked_in_at": "2025-04-22T09:08:16+03:00",
+          "checked_out_at": "2025-04-22T17:59:58+03:00",
+          "checkout_message": "Finished code review"
+        },
+        {
+          "id": 458,
+          "name": "Ezana Mekonnen",
+          "timezone": "Africa/Addis_Ababa",
+          "checked_in_at": "2025-04-22T08:26:43+03:00",
+          "checked_out_at": "2025-04-22T18:49:43+03:00",
+          "checkout_message": "Optimized database queries"
+        }
+      ]
+    }
+  },
+  "status": "success"
+}
